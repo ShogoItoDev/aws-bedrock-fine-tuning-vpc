@@ -15,6 +15,9 @@ AWS Bedrockの導入において、以下を実現したいケースを想定す
 
 本記事の執筆時点（2024/6）時点では公式ドキュメントの情報が不足しているため、上記アーキテクチャを実装するに際し、具体的なパラメータを検証した。
 
+# 構成図
+
+![diagram drawio](https://github.com/ShogoItoDev/aws-bedrock-fine-tuning-vpc/assets/30908643/5679d182-d992-42cc-9ed2-0f728d5a9a1d)
 
 # 利用方法
 1. クローンしたディレクトリに移動する
