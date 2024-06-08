@@ -174,6 +174,9 @@ AWS Bedrockの導入において、以下を実現したいケースを想定す
 ```
 </details>
 
+トレーニングジョブが完了すると、カスタムモデル一覧にモデルが表示される
+![スクリーンショット (2158)](https://github.com/ShogoItoDev/aws-bedrock-fine-tuning-vpc/assets/30908643/7ea14126-1337-4c85-a839-0247a724ae9b)
+
 
 [^1]:入力データの形式は https://docs.aws.amazon.com/ja_jp/bedrock/latest/userguide/model-customization-prepare.html を参照
 [^2]:https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/efa-start-nccl-dlami.html#nccl-start-dlami-sg
